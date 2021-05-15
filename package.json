@@ -1,0 +1,23 @@
+{
+  "name": "countdown-timer",
+  "version": "1.0.0",
+  "description": "Website Challenge",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theNoobCoderd/launch-countdown-timer-main.git"
+  },
+  "keywords": [
+    "website",
+    "challenge"
+  ],
+  "author": "ismail ramjean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theNoobCoderd/launch-countdown-timer-main/issues"
+  },
+  "homepage": "https://github.com/theNoobCoderd/launch-countdown-timer-main#readme"
+}

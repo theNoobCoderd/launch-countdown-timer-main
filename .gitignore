@@ -17,4 +17,5 @@
 
 design/*
 
-.idea/*
+.idea/
+node_modules/
